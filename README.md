@@ -18,7 +18,7 @@
 
   <h2 align="center">
     Implementation of LinkedList in Javascript. <br /><br />
-    <a href="https://https://javascript-linkedlist.pages.dev/">Demo</a>
+    <a href="https://jeferson0993.github.io/javascript-linkedlist/">Demo</a>
     ·
     <a href="https://github.com/jeferson0993/javascript-linkedlist/issues">Issues</a>
   </h2>
@@ -26,13 +26,13 @@
 
 
 <!-- Sobre o projeto -->
-## About
+## About ℹ️
 
 In this project, i had implemented the LinkedList data structure in Javascript. LinkedList is a dynamic data structure, as we can add or remove elements at ease, and it can even grow as needed. Just like arrays, linked lists store elements sequentially, but don’t store the elements continuously like an array.
 
 
 <!-- Construido com -->
-### Build with
+### Build with 🧰
 
 Tools and technologies:
 * javascript
@@ -42,7 +42,7 @@ Tools and technologies:
 
 
 <!-- Começando -->
-## Get started
+## Get started 🏃‍♂️
 
 Want to make a copy?
 ```
@@ -50,19 +50,19 @@ git clone https://github.com/jeferson0993/javascript-linkedlist.git
 ```
 
 <!-- Demonstração -->
-### Demo
+### Demo 🌎
 
-1. :glob: go to [Github Pages](https://jeferson0993.github.io/javascript-linkedlist/) -> :fire:.
+1. go to [Github Pages](https://jeferson0993.github.io/javascript-linkedlist/) :fire:.
 
 
 <!-- Licença -->
-## Licence
+## Licence 📑
 
 Distributed under license MIT. Se [`LICENÇA`](https://github.com/jeferson0993/javascript-linkedlist/blob/main/LICENSE) for more informations.
 
 
 <!-- Contato -->
-## Contact
+## Contact 📧
 
 Jeferson Ferreira - jeferson0993@gmail.com
 
