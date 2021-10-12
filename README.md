@@ -30,6 +30,8 @@
 
 In this project, i had implemented the LinkedList data structure in Javascript. LinkedList is a dynamic data structure, as we can add or remove elements at ease, and it can even grow as needed. Just like arrays, linked lists store elements sequentially, but don’t store the elements continuously like an array.
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/29678099/137035575-376b072d-85f3-4e8d-a1c5-d8c1c8045b48.png" />
 
 <!-- Construido com -->
 ### Build with 🧰
