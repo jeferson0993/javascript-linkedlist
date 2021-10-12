@@ -38,7 +38,7 @@ Tools and technologies:
 * javascript
 * css 3
 * html
-* [vite](https://vite.dev)
+* [vite](https://vitejs.dev)
 
 
 <!-- Começando -->
